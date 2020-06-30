@@ -1,8 +1,11 @@
 
 <html>
-<div style="background-image: url('8.jpg');"
-     "background-size:100%;"
-     "background-repeat:no-repeat;">
+<div> <style>
+     body{background-image: url('8.jpg');
+     background-size:100%;
+     background-repeat:no-repeat;
+     }
+     </style>
 <style>
  body{text-align:center}
 </style>
