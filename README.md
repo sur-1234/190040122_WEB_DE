@@ -3,7 +3,6 @@
 <div> <style>
      body{background-image: url('8.jpg');
      background-size:100%;
-     background-repeat:no-repeat;
      }
      </style>
 <style>
