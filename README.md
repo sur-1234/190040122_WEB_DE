@@ -2,8 +2,7 @@
 <html>
 <div> <style>
      body{background-image: url('8.jpg');
-     background-size:100%;
-     }
+     background-size:100%; }
      </style>
 <style>
  body{text-align:center}
