@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <div style="background-image: url('8.jpg');">
 <style>
