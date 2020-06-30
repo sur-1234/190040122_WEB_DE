@@ -1,6 +1,8 @@
 
 <html>
-<div style="background-image: url('8.jpg');">
+<div style="background-image: url('8.jpg');"
+     "background-size:100%;"
+     "background-repeat:no-repeat;">
 <style>
  body{text-align:center}
 </style>
