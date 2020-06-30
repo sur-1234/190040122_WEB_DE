@@ -7,7 +7,7 @@
 <title> About ME </title>
 </head>
 <body>
-<h1 style="color:red;" style="font-family:courier;">SURESH CHOUHAN</h1>
+<h1 style="color:red;">SURESH CHOUHAN</h1>
 <h2 style="color:blue;">CIVIL DEPARTMENT</h2>
 <img src="5.jpg" width="30%" hight="30%">
 <h2   style="color:red;">ROLL NO = 190040122 </h2>
@@ -25,5 +25,5 @@
 <h1  style="color:blue;"><ins>CONTACT</ins></h1>
 <a href="https://www.instagram.com/?hl=en">INSTAGRAM ME</a> 
 </body>
-/div>
+</div>
 </html> 
