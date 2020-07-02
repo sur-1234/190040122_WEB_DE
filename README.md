@@ -16,7 +16,7 @@
 <img src="5.jpg" width="30%" hight="30%">
 <h2   style="color:red;">ROLL NO = 190040122 </h2>
 <h1 style="color:blue;"><ins>EDUCATION</ins></h1>
-<h2  style ="color:brown;">. SCHOOL</h2>
+<h2  style ="color:brown;">SCHOOL</h2>
 <h3><i>GOOD SHEPHERD PUBLIC SCHOOL</i></h3>
 <h2  style ="color:brown;">COACHING</h2>
 <h3><i>ALLEN,KOTA</i></h3>
