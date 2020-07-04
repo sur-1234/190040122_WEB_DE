@@ -1,18 +1,17 @@
 
-<html>
-<div> <style>
-     body{background-image: url('5.jpg');
+<html> 
+     <head>
+          <title> About ME </title>
+     <style>
+     body{
+     background-image: url('5.jpg');
      background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
   background-attachment: fixed;
-    }
-     </style>
-<style>
- body{text-align:center}
+    text-align:left;
+     }
 </style>
-<head>
-<title> About ME </title>
 </head>
 <body>
 <h1 style="color:red;">SURESH CHOUHAN</h1>
@@ -34,5 +33,4 @@
 <h1  style="color:blue;"><ins>CONTACT</ins></h1>
 <a href="https://www.instagram.com/?hl=en">INSTAGRAM ME</a> 
 </body>
-</div>
 </html> 
