@@ -1,8 +1,12 @@
 
 <html>
 <div> <style>
-     body{background-image: url('8.jpg');
-     background-size:100%; }
+     body{background-image: url('5.jpg');
+     background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+    }
      </style>
 <style>
  body{text-align:center}
@@ -13,7 +17,8 @@
 <body>
 <h1 style="color:red;">SURESH CHOUHAN</h1>
 <h2 style="color:blue;">CIVIL DEPARTMENT</h2>
-<img src="5.jpg" width="30%" hight="30%">
+<img src="8.jpg" width="30%" hight="30%"
+     >
 <h2   style="color:red;">ROLL NO = 190040122 </h2>
 <h1 style="color:blue;"><ins>EDUCATION</ins></h1>
 <h2  style ="color:brown;">SCHOOL</h2>
