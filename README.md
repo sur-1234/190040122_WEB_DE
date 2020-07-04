@@ -6,6 +6,7 @@
      body{
      background-image: url('8.jpg');
   background-attachment: fixed;
+          background-repeat:no-repeat;
     text-align:left;
      }
     <img>      
