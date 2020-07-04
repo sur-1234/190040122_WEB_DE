@@ -2,12 +2,15 @@
 <html> 
      <head>
           <title> About ME </title>
-     <style>
+ <style>
      background-image: url('8.jpg');
   background-attachment: fixed;
           background-size:cover;
           background-repeat:no-repeat;
-    text-align:left;      
+    body
+          {
+          text-align:left;
+          }      
 </style>
 </head>
 <body>
