@@ -9,7 +9,7 @@
           background-attachment: fixed;
           background-size:cover;
           background-repeat:no-repeat;
-          text-align:left;
+          text-align:center;
        }      
 </style>
      </head>
