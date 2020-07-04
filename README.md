@@ -4,22 +4,17 @@
           <title> About ME </title>
      <style>
      body{
-     background-image: url('5.jpg');
-          width:40%;
-          height:70%;
-     background-repeat: no-repeat;
-  background-position: right top;
-  margin-right: 200px;
+     background-image: url('8.jpg');
   background-attachment: fixed;
     text-align:left;
      }
+    <img>      
 </style>
 </head>
 <body>
 <h1 style="color:red;">SURESH CHOUHAN</h1>
 <h2 style="color:blue;">CIVIL DEPARTMENT</h2>
-<img src="8.jpg" width="100%" hight="100%"
-     >
+<img src="5.jpg" width="40%" hight="50%">
 <h2   style="color:red;">ROLL NO = 190040122 </h2>
 <h1 style="color:blue;"><ins>EDUCATION</ins></h1>
 <h2  style ="color:brown;">SCHOOL</h2>
