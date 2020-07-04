@@ -3,16 +3,16 @@
      <head>
           <title> About ME </title>
  <style>
-     background-image: url('8.jpg');
-  background-attachment: fixed;
+      body
+      {
+          background-image: url('8.jpg');
+          background-attachment: fixed;
           background-size:cover;
           background-repeat:no-repeat;
-    body
-          {
           text-align:left;
-          }      
+       }      
 </style>
-</head>
+     </head>
 <body>
 <h1 style="color:red;">SURESH CHOUHAN</h1>
 <h2 style="color:blue;">CIVIL DEPARTMENT</h2>
