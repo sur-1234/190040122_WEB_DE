@@ -6,7 +6,7 @@
       body
       {
           background-image: url('8.jpg'),url('5.jpg');
-          background-size:cover,200px 400px;
+          background-size:cover,2000px 4000px;
           background-repeat:repeat,no-repeat;
           text-align: left top,right top;
        }      
@@ -15,7 +15,6 @@
 <body>
 <h1 style="color:red;">SURESH CHOUHAN</h1>
 <h2 style="color:blue;">CIVIL DEPARTMENT</h2>
-
 <h2   style="color:red;">ROLL NO = 190040122 </h2>
 <h1 style="color:blue;"><ins>EDUCATION</ins></h1>
 <h2  style ="color:brown;">SCHOOL</h2>
