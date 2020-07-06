@@ -6,10 +6,9 @@
       body
       {
           background-image: url('8.jpg'),url('5.jpg');
-          background-attachment: fixed,fixed;
           background-size:cover,200px 400px;
           background-repeat:repeat,no-repeat;
-          text-align: center,right top;
+          text-align: left top,right top;
        }      
 </style>
      </head>
