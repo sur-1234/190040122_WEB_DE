@@ -7,9 +7,9 @@
       {
           background-image: url('8.jpg'),url('5.jpg');
           background-attachment: fixed,fixed;
-          background-size:cover,none;
-          background-repeat:no-repeat,repeat;
-          text-align:right top,left top;
+          background-size:cover,height:50%,width:30%;
+          background-repeat:repeat,no-repeat;
+          text-align: center,right top;
        }      
 </style>
      </head>
